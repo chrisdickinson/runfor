@@ -1,0 +1,27 @@
+{
+  "name": "runfor",
+  "version": "0.0.0",
+  "description": "silly little generators experiment",
+  "main": "index.js",
+  "dependencies": {
+    "concat-stream": "~1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chrisdickinson/runfor.git"
+  },
+  "author": "Chris Dickinson <chris@neversaw.us>",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "9ed094b440396fa31d41bf2970c51c6a950ea19b",
+  "keywords": [
+    "experiment"
+  ],
+  "bugs": {
+    "url": "https://github.com/chrisdickinson/runfor/issues"
+  }
+}
